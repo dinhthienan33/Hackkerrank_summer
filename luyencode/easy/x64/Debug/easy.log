@@ -1,0 +1,3 @@
+﻿  xaufibo2.cpp
+C:\Users\APTS\Desktop\luyencode\easy\xaufibo2.cpp(17,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  easy.vcxproj -> C:\Users\APTS\Desktop\luyencode\x64\Debug\easy.exe

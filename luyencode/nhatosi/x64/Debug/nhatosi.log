@@ -1,0 +1,3 @@
+﻿  nhatsoi.cpp
+C:\Users\APTS\Desktop\luyencode\easy\nhatsoi.cpp(14,13): error C3861: 'win': identifier not found
+C:\Users\APTS\Desktop\luyencode\easy\nhatsoi.cpp(17,9): error C3861: 'lose': identifier not found
